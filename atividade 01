@@ -1,1 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Primeira Página</title>
+</head>
+<body>
+    <h1>Bem-vindo à minha página!</h1>
 
+    <p>Olá! Meu nome é Henrique e estou começando a aprender desenvolvimento web. Estou muito animado com essa nova jornada e quero aprender a criar sites incríveis.</p>
+
+    <p>Meu passatempo favorito é jogar futebol. Adoro estimular meu corpo com exercícios físicos e o futebol é um esporte que eu amo.</p>
+</body>
+</html>
